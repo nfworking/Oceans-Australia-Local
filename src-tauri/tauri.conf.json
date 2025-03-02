@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "Oceans-Australia",
-  "version": "0.1.0",
+  "version": "0.3.2",
   "identifier": "com.oceans.dev",
   "build": {
     "frontendDist": "../out",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "Oceans Australia",
+        "title": "Australia's Oceans",
         "width": 800,
         "height": 600,
         "resizable": true,
